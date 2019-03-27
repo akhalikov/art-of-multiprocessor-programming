@@ -1,4 +1,6 @@
-# The Art Of Multiprocessor Programming
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c9232a6a5f8643fb856742ac8b7473dd)](https://www.codacy.com/app/akhalikov/art-of-multiprocessor-programming?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akhalikov/art-of-multiprocessor-programming&amp;utm_campaign=Badge_Grade)
+
+=The Art Of Multiprocessor Programming
 
 _By Maurice Herlihy & Nir Shavit_
 
